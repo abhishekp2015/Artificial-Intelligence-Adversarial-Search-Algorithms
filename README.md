@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Adversarial-Search-Algorithms
-Implemented a program to determine the Next Optimized move in a Two  Player Interactive game by using following Algorithms in Python:
+Implemented a program to determine the Next Optimized move in a Two  Player Interactive Game by using following Algorithms in Python:
 
 ● Greedy Bestfirst Search
 
