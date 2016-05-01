@@ -2,7 +2,9 @@
 Implemented a program to determine the Next Optimized move in a Two  Player Interactive game by using following Algorithms in Python:
 
 ● Greedy Bestfirst Search
+
 ● Minimax
+
 ● AlphaBeta Pruning
 
 The Player allowed to perform Raid or Sneak Operation.
